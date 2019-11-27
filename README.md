@@ -47,9 +47,15 @@ Kajian dilaksanakan pada tanggal 25 Muharram 1441 / 24 September 2019.
 
 #### Berbuka Puasa di Bulan Ramadhan Tanpa Udzur
 
-Kajian dilaksanakan pada tanggal 2 Rabiul Awal 1441 / 29 Oktober 201.
+Kajian dilaksanakan pada tanggal 2 Rabiul Awal 1441 / 29 Oktober 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-8.MP3)
+
+#### Meninggalkan Haji & Memutus Silaturahim
+
+Kajian dilaksanakan pada tanggal 30 Rabbi'ul Awwal 1441 / 26 November 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-9-10.MP3)
 
 ## Tematik
 
