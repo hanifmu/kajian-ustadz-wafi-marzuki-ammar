@@ -57,6 +57,18 @@ Kajian dilaksanakan pada tanggal 30 Rabbi'ul Awwal 1441 / 26 November 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-9-10.MP3)
 
+#### Zina #1
+
+Kajian dilaksanakan pada tanggal 28 Rabi'ul Akhir 1441 / 24 Desember 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-11_1.MP3)
+
+#### Zina #2
+
+Kajian dilaksanakan pada tanggal 3 Jumadil Akhir 1441 / 28 Januari 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-11_2.MP3)
+
 ## Tematik
 
 #### Cerdas Dalam Beribadah
