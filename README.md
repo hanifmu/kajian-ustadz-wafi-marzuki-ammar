@@ -17,15 +17,10 @@ Kajian dilaksanakan pada tanggal 22 Jumadil Akhir 1440 / 26 Februari 2019
 
 #### Sihir & Meninggalkan Shalat #1
 
-Kajian dilaksanakan pada tanggal  20 Rajab 1440 / 26 Maret 2019.
+Kajian dilaksanakan pada tanggal  20 Rajab 1440 / 26 Maret 2019 (#1) dan 19 Sya'ban 1440 / 23 April 2019 (#2).
 
-- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-3-4.MP3)
-
-#### Meninggalkan Shalat #2
-
-Kajian dilaksanakan pada tanggal 19 Sya'ban 1440 / 23 April 2019.
-
-- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-4.MP3)
+- [Download audio kajian #1](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-3-4.MP3)
+- [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-4.MP3)
 
 #### Menolak Membayar Zakat
 
@@ -57,17 +52,18 @@ Kajian dilaksanakan pada tanggal 30 Rabbi'ul Awwal 1441 / 26 November 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-9-10.MP3)
 
-#### Zina #1
+#### Zina
 
-Kajian dilaksanakan pada tanggal 28 Rabi'ul Akhir 1441 / 24 Desember 2019.
+Kajian dilaksanakan pada tanggal 28 Rabi'ul Akhir 1441 / 24 Desember 2019 (#1) dan 3 Jumadil Akhir 1441 / 28 Januari 2020 (#2).
 
-- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-11_1.MP3)
+- [Download audio kajian #1](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-11_1.MP3)
+- [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-11_2.MP3)
 
-#### Zina #2
+#### Hubungan Sesama Jenis
 
-Kajian dilaksanakan pada tanggal 3 Jumadil Akhir 1441 / 28 Januari 2020.
+Kajian dilaksanakan pada tanggal 2 Rajab 1441 / 25 Februari 2020.
 
-- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-11_2.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-wafi-marzuki-ammar/raw/master/kitab_al_kabair/al_kabair-12.MP3)
 
 ## Tematik
 
